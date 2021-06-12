@@ -1,0 +1,17 @@
+table{
+  width:100%;
+  border-collapse:collapse;
+}
+
+th{
+  border:2px darkblue solid;
+  background-color: grey;
+  color: #fff;
+}
+td{
+  text-align: center;
+  border:2px darkgreen solid;
+}
+.bt{
+  text-align: center;
+}

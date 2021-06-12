@@ -1,0 +1,27 @@
+img{
+  width: 120%;
+  padding: 10px;
+  padding-bottom: 0px;
+  display:flex;
+
+}
+
+li{
+  color:blue;
+  padding:1px;
+  margin:20px;
+  display:inline;
+  font-style: oblique;
+  text-transform:capitalize;
+  float: right;
+  flow-into: none;
+
+
+}
+li:hover{
+  background-color: gray;
+  padding:5px;
+  border: 2px solid #fff;
+  cursor: pointer;
+  margin: 0;
+}

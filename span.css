@@ -1,0 +1,23 @@
+h1{
+  background-color: black;
+  color: #fff;
+  text-align: center;
+}
+h1:hover{
+  font-family: Brush Script MT;
+  cursor: pointer;
+  background-color: darkblue;
+}
+
+span{
+  margin-top: 20px;
+  display:inline-block;
+  background-color: green;
+  padding: 100px;
+  color: #0B007B;
+}
+
+span:hover{
+  background-color: cyan;
+  cursor:no-drop;
+}
